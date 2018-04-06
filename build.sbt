@@ -1,4 +1,4 @@
-scalaVersion := "2.12.4"
+scalaVersion := "2.11.12"
 
 resolvers += Resolver.bintrayRepo("beyondthelines", "maven")
 

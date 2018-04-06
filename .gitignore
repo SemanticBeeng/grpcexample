@@ -1,6 +1,12 @@
 target/
 project/project/
 project/target/
+project/.boot/
+project/.sbtboot/
+project/.ivy/
+.idea/
+
+
 *.class
 *.log
 src/main/resources/specs/
